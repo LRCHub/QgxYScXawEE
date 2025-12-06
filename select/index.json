@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "POP IN 2",
+  "base_artist": "B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）",
+  "createdAt": "2025-12-06T04:48:42.360229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pop In My Step",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Pop_In_My_Step_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pop in My Step",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Pop_in_My_Step_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Old Pop in an Oak",
+      "artist": "Rednex",
+      "has_synced": true,
+      "path": "select/03_Old_Pop_in_an_Oak_Rednex.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pop In G",
+      "artist": "Heatmiser",
+      "has_synced": true,
+      "path": "select/04_Pop_In_G_Heatmiser.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Old Pop In An Oak",
+      "artist": "Rednex",
+      "has_synced": true,
+      "path": "select/05_Old_Pop_In_An_Oak_Rednex.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Old Pop In an Oak (Original Radio Edit)",
+      "artist": "Rednex",
+      "has_synced": true,
+      "path": "select/06_Old_Pop_In_an_Oak_(Original_Radio_Edit)_Rednex.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pop in My Step",
+      "artist": "King Gizzard",
+      "has_synced": true,
+      "path": "select/07_Pop_in_My_Step_King_Gizzard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Old Pop In An Oak",
+      "artist": "Rednex",
+      "has_synced": true,
+      "path": "select/08_Old_Pop_In_An_Oak_Rednex.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "★CANDY POP IN LOVE★",
+      "artist": "Tommy february6",
+      "has_synced": true,
+      "path": "select/09_★CANDY_POP_IN_LOVE★_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CANDY POP IN LOVE",
+      "artist": "Tommy february⁶",
+      "has_synced": true,
+      "path": "select/10_CANDY_POP_IN_LOVE_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Candy Pop In Love",
+      "artist": "Tommy February6",
+      "has_synced": false,
+      "path": "select/11_Candy_Pop_In_Love_Tommy_February6.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Old Pop in an Oak (Radio Edit)",
+      "artist": "Rednex",
+      "has_synced": false,
+      "path": "select/12_Old_Pop_in_an_Oak_(Radio_Edit)_Rednex.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock Pop in Concert",
+      "artist": "Tocotronic",
+      "has_synced": true,
+      "path": "select/13_Rock_Pop_in_Concert_Tocotronic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POP IN 2",
+      "artist": "B小町 ルビー(CV:伊駒ゆりえ)、有馬かな(CV:潘めぐみ)、MEMちょ(CV:大久保瑠美)",
+      "has_synced": false,
+      "path": "select/pl_01_POP_IN_2_B小町_ルビー(CV_伊駒ゆりえ)、有馬かな(CV_潘めぐみ)、MEMちょ(CV_大久保瑠美).txt"
+    }
+  ]
+}
